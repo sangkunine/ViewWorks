@@ -21,7 +21,7 @@ AMF,
 WRL(VRML),
 FBX
 
-Note that 11 most popular file formats can be loaded and rendered. The figures below show the rendering result after loading the sample models.
+Note that 11 most popular file formats can be loaded and rendered. The figures below show the rendered images after loading the sample models.
 <div style="text-align: center;">
 <img src="https://sangkunine.github.io/viewWorks/images/samples/bike.png" width="24%" style="margin: 1px"> <img src="https://sangkunine.github.io/viewWorks/images/samples/birdInTreeOnHill.png" width="24%" style="margin: 1px">
 <img src="https://sangkunine.github.io/viewWorks/images/samples/Build_a_city.png" width="24%" style="margin: 1px"> <img src="https://sangkunine.github.io/viewWorks/images/samples/BusterDrone.png" width="24%" style="margin: 1px">
@@ -32,21 +32,21 @@ Note that 11 most popular file formats can be loaded and rendered. The figures b
 ## Website
 You can run this application at the website:  https://sangkunine.github.io/viewWorks/.
 
-## Highlighted Features
-- Underlying technologies
+## Highlighted features
+- Underlying technologies<br>
 WebGL(three.js), GLSL Shaders using ray-marching technique
-- Drag & drop
+- Drag & drop<br>
 Any of 3D model files can be loaded to this application by a drag & drop manner.
-- Three types of background
-In this viewer, three kinds of textures for background are supported. They are 8 wallpaper textures, 6 cubemap textures, and 4 dynamic textures.
-- PBR-based floors:
+- Three types of background<br>
+In this viewer, three kinds of textures for background are supported. They are wallpaper textures, cubemap textures, and animated textures.
+- PBR-based floors<br>
 These are base floors for improving the visual appearance of the loaded model. These are rendered using PBR techniques. One of these is a circular plate with mirror or glass features.
 - Others
 	- Hemisphere light & directional light
 	- Shadow maps using the percentage-closer soft shadows technique
-	- Auto-fitting the loaded model to the window
+	- Fitting the camera to the loaded models
 
-## User Interface
+## User interface
 
 - Menu bar<br>
 There is no menu bar to maximize a screen area.
