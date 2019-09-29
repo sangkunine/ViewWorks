@@ -76,4 +76,4 @@ You can control a camera to take a closer look at the loaded models by:<br>
 ## Question or suggestion
 Please contact us at <info@nova-graphix.com> for any question or suggestion.
 
-Thank you for reading this description on this 3D viewer, called **ViewWorks**, developed by [NovaGraphix, Co.](https://www.nova-graphix.com/) Note that we will continue to add new features. Anyone can use it for free without any restrictions.
+Thank you for reading the above description on **ViewWorks**, developed by [NovaGraphix, Co.](https://www.nova-graphix.com/) Note that we will continue to add new features and technologies. Anyone can use it for free without any restrictions.
