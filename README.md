@@ -30,7 +30,7 @@ Note that 11 most popular file formats can be loaded and rendered. The figures b
 </div>
 
 ## Website
-You can run this application at the website:  https://sangkunine.github.io/viewWorks/.
+You can run this application at the website: https://sangkunine.github.io/viewWorks/.
 
 ## Highlighted features
 - Underlying technologies<br>
