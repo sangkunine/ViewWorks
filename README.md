@@ -1,9 +1,9 @@
 # ViewWorks
 
-![](https://img.shields.io/badge/minzipped_size-1.6MB-blue)
+![](https://img.shields.io/badge/minzipped_size-2.0MB-blue)
 ![](https://img.shields.io/badge/node-v10.14.1-yellow)
 ![](https://img.shields.io/badge/npm-6.4.1-yellow)
-![](https://img.shields.io/badge/webpack-4.38.0-yellow)
+![](https://img.shields.io/badge/webpack-4.43.0-yellow)
 ![](https://img.shields.io/badge/three.js-r114-green)
 
 **ViewWorks** is a web-based 3D model viewer for a fast rendering of the most common 3D model files using the popular javascript library, [three.js](https://threejs.org/). It will be upgraded for faster file loading and rendering, and more features will continue to be inserted for further analysis.
