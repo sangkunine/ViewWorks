@@ -9,11 +9,11 @@
         <script src="dist/viewWorks.min.js"></script>
     </head>
     <body>
-        <div id="novaGraphix"></div>
+        <div id="app-container"></div>
         <script>
-            var novaGraphix = document.getElementById( 'novaGraphix' );
+            var appContainer = document.getElementById( 'app-container' );
             var appWorks = JAMIE.createViewWorks();
-            novaGraphix.appendChild( appWorks.dom );
+            appContainer.appendChild( appWorks.dom );
         </script>
     </body>
 </html>
