@@ -1,24 +1,28 @@
 # ViewWorks
 
-![](https://img.shields.io/badge/minzipped_size-2.0MB-blue)
-![](https://img.shields.io/badge/node-v10.14.1-yellow)
-![](https://img.shields.io/badge/npm-6.4.1-yellow)
-![](https://img.shields.io/badge/webpack-4.43.0-yellow)
-![](https://img.shields.io/badge/three.js-r114-green)
+![](https://img.shields.io/badge/minzipped_size-3.4MB-blue)
+![](https://img.shields.io/badge/node-v14.15.1-yellow)
+![](https://img.shields.io/badge/npm-6.14.8-yellow)
+![](https://img.shields.io/badge/webpack-5.10.0-yellow)
+![](https://img.shields.io/badge/three.js-r128-green)
 
 **ViewWorks** is a web-based 3D model viewer for a fast rendering of the most common 3D model files using the popular javascript library, [three.js](https://threejs.org/). It will be upgraded for faster file loading and rendering, and more features will continue to be inserted for further analysis.
 
 ## Supported file formats
-JSON, OBJ(+MTL), STL, PLY, DAE(COLLADA),
+**JSON, OBJ(+MTL), STL, PLY, DAE(COLLADA),
 GLTF, GLB, AMF, 3MF, WRL(VRML), FBX,
-3DS, DRC, KMZ, MD2, SVG, VTK
+3DS, DRC, KMZ, MD2, SVG, VTK**
 
 Note that 17 most popular file formats can be loaded and rendered. The figures below show the rendered images after loading the sample models.
 <div style="text-align: center;">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/bike.png" width="24%" style="margin: 1px"> <img src="https://sangkunine.github.io/viewWorks/images/samples/birdInTreeOnHill.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/Build_a_city.png" width="24%" style="margin: 1px"> <img src="https://sangkunine.github.io/viewWorks/images/samples/BusterDrone.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/Dragon_and_phoenix_statuette.png" width="24%" style="margin: 1px"> <img src="https://sangkunine.github.io/viewWorks/images/samples/Hovering_helicopter.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/lost_empire.png" width="24%" style="margin: 1px"> <img src="https://sangkunine.github.io/viewWorks/images/samples/sponza.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/bike.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/birdInTreeOnHill.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/Build_a_city.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/BusterDrone.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/Dragon_and_phoenix_statuette.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/Hovering_helicopter.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/lost_empire.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/viewWorks/images/samples/sponza.png" width="24%" style="margin: 1px">
 </div>
 
 ## Website
@@ -59,20 +63,18 @@ The key **p** allows us to play the animation of loaded models if available, and
 
 - Mouse<br>
 You can control a camera to take a closer look at the loaded models by:<br>
-	-pressing left button & moving mouse for camera rotating,<br>
-	-pressing right button & moving mouse for camera panning,<br>
-	-scrolling mouse wheel for camera zooming (in/out).
+	- pressing left button & moving mouse for camera rotating,<br>
+	- pressing right button & moving mouse for camera panning,<br>
+	- scrolling mouse wheel for camera zooming (in/out).
 
 ## Future works
 - Function to load a new model file format such as IGES, STEP, etc.
 - Function to measure the Euclidean distance between two clicked points.
-- Function to calculate mass properties such as surface area and volume size.
-- Function to count the number of vertices or faces of the loaded models if available.
-- Function to compute the size of an axis-aligned bounding box or the radius of a bounding sphere of the model.
+- Function to calculate mass properties such as surface area, volume size, center of gravity, and moment of inertia.
 - Function to render the loaded model in a wireframe style.
 - Function to transform the colors of the loaded models for further analysis of geometric properties such as Gaussian curvatures.
 
 ## Question or suggestion
 Please contact us at <info@nova-graphix.com> for any question or suggestion.
 
-Thank you for reading the above description on **ViewWorks**, developed by [NovaGraphix, Co.](https://www.nova-graphix.com/) Note that we will continue to add new features and technologies. Anyone can use it for free without any restrictions.
+Thank you for reading the above description on **ViewWorks**, developed by [NovaGraphix, Co.](https://www.youtube.com/channel/UChK_R6Dc3ar2kFUdFB53g5w/videos) Note that we will continue to add new features and technologies. Anyone can use it for free without any restrictions.
