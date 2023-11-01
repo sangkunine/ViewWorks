@@ -15,18 +15,18 @@ GLTF, GLB, AMF, 3MF, WRL(VRML), FBX,
 
 Note that 17 most popular file formats can be loaded and rendered. The figures below show the rendered images after loading the sample models.
 <div style="text-align: center;">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/bike.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/birdInTreeOnHill.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/Build_a_city.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/BusterDrone.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/Dragon_and_phoenix_statuette.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/Hovering_helicopter.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/lost_empire.png" width="24%" style="margin: 1px">
-<img src="https://sangkunine.github.io/viewWorks/images/samples/sponza.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/bike.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/birdInTreeOnHill.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/Build_a_city.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/BusterDrone.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/Dragon_and_phoenix_statuette.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/Hovering_helicopter.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/lost_empire.png" width="24%" style="margin: 1px">
+<img src="https://sangkunine.github.io/ViewWorks/images/samples/sponza.png" width="24%" style="margin: 1px">
 </div>
 
 ## Website
-You can run this application at the website: https://sangkunine.github.io/viewWorks/.
+You can run this application at the website: https://sangkunine.github.io/ViewWorks/.
 
 ## Highlighted features
 - Underlying technologies<br>
